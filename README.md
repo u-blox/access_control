@@ -1,6 +1,7 @@
 # Access Control demo
 
-Demo using two u-blox C# demo for ANT-B11 and C209 simulate an access control. The area will grant access the two azimuth angles are within a specic range.
+This C# demo using two u-blox ANT-B11 and C209 simulate an access control. 
+The area will grant "access" the two azimuth angles are within a specic range.
 
 Works with serial port or UDP broadcast packets.
 
