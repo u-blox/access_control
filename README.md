@@ -17,7 +17,7 @@ Hardware flow control is enabled by default
 ![demo](https://github.com/u-blox/access_control/assets/11769925/8c0ff16d-6ef7-471d-b5d0-7453efb2c994)
 
 
-Select the Anchors Left and Right, is recommended to use Smooth of 3 packets, and using filter on MAC can also be needed if may Tags are available.<br>
+Select the Anchors Left and Right, is recommended to use Smooth of 3 packets, and using filter on MAC can also be needed if many Tags are available.<br>
 ![image](https://github.com/u-blox/access_control/assets/11769925/ee597158-36a0-4756-a2a3-c0ec2812fd7c)
 
 ## FTDI USB cable (special variant providing 3.3v to ANT-B11)
