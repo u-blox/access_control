@@ -29,6 +29,7 @@ DR127D254P20F: https://www.digikey.se/sv/products/detail/chip-quik-inc/DR127D254
 ![image](https://github.com/u-blox/access_control/assets/11769925/0cfd9733-4a0a-43b4-81d0-e3eb2c5294b4)
 
 Compile the solution using Visual Studio 2017 or newer.
+The Access Control works best at the resulution 1920x1080 pixels (1080p).
 
 ## Disclaimer
 Copyright &copy; u-blox 
